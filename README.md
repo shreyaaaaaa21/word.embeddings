@@ -21,7 +21,7 @@
 
 <h2>Getting Started</h2>
 <p>To get started with this project, you can clone the repository and open the notebook in Google Colab.</p>
-<pre><code>git clone https://github.com/your-username/word-embeddings-project.git</code></pre>
+<pre><code>git clone https://github.com/shreyaaaaaa21/word-embeddings-project.git</code></pre>
 <p>Once cloned, upload the notebook to Google Colab and execute the cells step by step to see the output.</p>
 
 <h2>Requirements</h2>
